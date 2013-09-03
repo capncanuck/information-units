@@ -1,6 +1,6 @@
-Numeric.Units.Dimensional.TF -- Statically checked physical dimensions
-Bjorn Buckwalter, bjorn.buckwalter@gmail.com
-License: BSD3
+Numeric.Units.Dimensional.TF
+Khalil Fazal, khalil.fazal.0@gmail.com
+License: LGPL-2.1
 
 
 = Summary =
